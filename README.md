@@ -2,8 +2,6 @@
 
 A simple, yet engaging Python-based Blackjack game. Test your luck and strategy against the computer!
 
-![Blackjack Banner](link-to-your-banner-image-if-any.jpg)
-
 ## 🚀 Features
 
 - **Ace Handling**: Ensures that aces are valued at 11 unless the total exceeds 21, in which case they're valued at 1.
@@ -13,7 +11,7 @@ A simple, yet engaging Python-based Blackjack game. Test your luck and strategy 
 
 1. Clone this repository:
    ```bash
-   git clone [link-to-repo.git]
+   git clone https://github.com/NandishRana/black-jack.git
    ```
 2. Navigate to the directory
    ```bash
