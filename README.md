@@ -19,7 +19,7 @@ A simple, yet engaging Python-based Blackjack game. Test your luck and strategy 
     ```
 3. Run the Game
     ```bash
-     python BlackJack V2.py
+     python main.py
     ```
 
    
